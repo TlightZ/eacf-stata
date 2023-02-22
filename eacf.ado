@@ -1,7 +1,7 @@
 *! version 1.0.0
 cap program drop eacf
 program define eacf, rclass
-	version 16
+	version 15
 	syntax varname(ts) [if] [in] [,ar(integer 7) ma(integer 13)]
 
 	preserve

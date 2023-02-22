@@ -2,9 +2,11 @@
 EACF calculation approach for Stata
 
 # Structure
+- main code: eacf.ado
+- mata modules: leacf_acf.mlib, leacf_calculate.mlib 
 - Help file in Stata format: eacf.sthlp
+- mata code files in eacf_mata_files.zip
 - example data: seriesA.dta (see Table 6 in Tsay, Ruey S., and George C. Tiao,1984)
-- codes: eacf.ado, eacf_acf.mata and eacf_calculate.mata
 
 # Tutorial
 see Help file
