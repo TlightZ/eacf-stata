@@ -1,0 +1,13 @@
+v 2
+d eacf: Extended Sample Autocorrelation Function
+d 
+d eacf calculates and displays the EACF table, used to specify the order of AR and MA for stationary and nonstationary ARMA models.
+d
+d Author: H.W. Zheng, Lingnan College, Sun Yat-Sen University, China, zhenghw25@mail2.sysu.edu.cn
+
+d Distribution-Date: 20230221
+d License: MIT
+d 
+f eacf.ado
+f eacf.sthlp
+f seriesA.dta
