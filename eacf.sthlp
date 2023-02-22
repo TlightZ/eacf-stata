@@ -1,7 +1,7 @@
 {smcl}
 {* *! version 1.0 2023/02/21}{...}
 {hline}
-{cmd:help for {hi:eacf}}{right: ({browse "www.baidu.com":gitee})}
+{cmd:help for {hi:eacf}}{right: ({browse "https://github.com/TlightZ/eacf-stata":Github})}
 {hline}
 
 {title:Extended Sample Autocorrelation Function}
@@ -58,6 +58,6 @@ Algorithm in eacf.R from The R Package "TSA" by K.S. CHAN, department of statist
 
 {phang}
 {cmd:H.W. Zheng} {break}
-Gitee: {browse "https://gitee.com/registerzgh":https://gitee.com/registerzgh}. {break}
 Github: {browse "https://github.com/TlightZ":https://github.com/TlightZ}. {break}
+Email: {browse "mailto:zhenghw25@mail2.sysu.edu.cn":zhenghw25@mail2.sysu.edu.cn}. {break}
 {p_end}
