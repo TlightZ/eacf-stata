@@ -4,7 +4,7 @@ EACF calculation approach for Stata
 # Structure
 - Help file in Stata format: eacf.sthlp
 - example data: seriesA.dta (see Table 6 in Tsay, Ruey S., and George C. Tiao,1984)
-- codes: eacf.ado, eacf_acf.mata and eacf_calculate.mata
+- codes: eacf.ado
 
 # Tutorial
 see Help file
